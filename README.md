@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **supunjayalath7@gmail.com / supunj@cclab.lk**
 
-- 📄 Know about my company [https://cclab.lk](https://cclab.lk)
+- 📄 Know about my company [cclab.lk](https://cclab.lk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
