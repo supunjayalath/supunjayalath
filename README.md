@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunjayalath&label=Profile%20views&color=0e75b6&style=flat" alt="supunjayalath" /> </p>
 
-- 🔭 I’m currently working on **HP Service Partners Management Web Application**
+- 🔭 I’m currently working on **Captain Code Lab**
 
 - 💬 Ask me about **React, JavaScript ....**
 
